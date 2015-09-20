@@ -1,0 +1,24 @@
+{
+  "name": "payline",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tomtarrot/payline",
+  "authors": [
+    "Tom Tarrot <oreofeolurin@gmail.com>"
+  ],
+  "description": "payline cdn",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/project.git"
+  }
+}
